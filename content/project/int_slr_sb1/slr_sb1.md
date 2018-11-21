@@ -10,7 +10,7 @@ summary = "This project investigates the governance structure surrounding specif
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Sea level rise"]
+tags = ["Sea level rise", "Governance"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
