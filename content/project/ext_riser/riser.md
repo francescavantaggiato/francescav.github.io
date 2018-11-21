@@ -10,7 +10,7 @@ summary = "The governance of sea level rise in the San Francisco Bay Area."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Sea level rise"]
+tags = ["Sea level rise", "Governance"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://riser.berkeley.edu/"
