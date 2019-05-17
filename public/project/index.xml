@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Francesca Pia Vantaggiato</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Francesca Pia Vantaggiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RISER SF Bay - Resilient Infrastructures as Seas Rise.</title>
+      <link>/project/ext_riser/riser/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/ext_riser/riser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Governance of Sea Level Rise for Transportation Corridors across California</title>
+      <link>/project/int_slr_sb1/slr_sb1/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/int_slr_sb1/slr_sb1/</guid>
+      <description>This project investigates the impact of climate change on transportation infrastructure in California. Specifically, it focuses on the governance structures that are in place to deal with adaptation to sea level rise, addressing its consequences on transportation infrastructure. The project examines specific transportation corridors that are impacted by sea level rise in three different areas of California - the San Francisco Bay Area, Los Angeles and San Diego County - in comparative perspective.</description>
+    </item>
+    
+  </channel>
+</rss>
