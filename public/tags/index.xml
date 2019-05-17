@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Governance</title>
+      <link>/tags/governance/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/governance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sea level rise</title>
+      <link>/tags/sea-level-rise/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/sea-level-rise/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Academic</title>
@@ -27,24 +45,6 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sea Level Rise</title>
-      <link>/tags/sea-level-rise/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/tags/sea-level-rise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sea level rise</title>
-      <link>/tags/sea-level-rise/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/tags/sea-level-rise/</guid>
       <description></description>
     </item>
     
