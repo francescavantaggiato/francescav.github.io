@@ -1,6 +1,5 @@
 +++
-title = "Understanding the EU Civil Service: The
-General Secretariat of the Council"
+title = "Understanding the EU Civil Service: The General Secretariat of the Council."
 date = 2017-01-01T00:00:00
 draft = false
 
