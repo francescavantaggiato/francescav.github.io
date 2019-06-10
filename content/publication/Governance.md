@@ -1,5 +1,5 @@
 +++
-title = "Regulatory relationships across levels of multilevel governance systems: From collaboration to competition."
+title = "Regulatory relationships across levels of multilevel governance systems: From collaboration to competition"
 date = 2019-04-19T00:00:00
 draft = false
 
