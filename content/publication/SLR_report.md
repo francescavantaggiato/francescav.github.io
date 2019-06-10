@@ -1,5 +1,5 @@
 +++
-title = "The Governance of Sea Level Rise in the San Francisco Bay Area"
+title = "The Governance of Sea Level Rise in the San Francisco Bay Area: results from a survey of stakeholders."
 date = 2019-03-20T00:00:00
 draft = false
 

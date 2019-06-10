@@ -1,5 +1,5 @@
 +++
-title = "Revisiting the Regulatory State."
+title = "Revisiting the Regulatory State: A Multidisciplinary Review Establishing a New Research Agenda."
 date = 2014-01-01T00:00:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "CCP Working Paper 14-9"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This paper provides a comprehensive literature review of the ‘Regulatory State’ through the lens of utility regulation. The review is multidisciplinary with it bringing together the insights available from the political science, economics, legal and management science literatures. It is clear that while the term ‘Regulatory State’ is essentially missing from the economics literature a vast array of economics papers provide valuable insights for debates about the Regulatory State within political science. In addition to reviewing the existing literature, the paper identifies opportunities for future research. The literature is grouped into five topics: (i) Consumers, (ii) Courts, (iii) Ideas, Experts and Expertise, (iv) Governance and (v) Assessing Regulator Performance. Apart from (iv), we believe all of these areas have been under-researched in relative terms. In particular, a key finding is that compared to the information available on Public Utility Commissioners in US States, very little information has been collated on the background, characteristics and careers of individual utility regulators working within Europe."
+abstract = "This paper provides a comprehensive literature review of the ‘Regulatory State’ through the lens of utility regulation. The review is multidisciplinary with it bringing together the insights available from the political science, economics, legal and management science literatures. It is clear that while the term ‘Regulatory State’ is essentially missing from the economics literature a vast array of economics papers provide valuable insights for debates about the Regulatory State within political science. In addition to reviewing the existing literature, the paper identifies opportunities for future research. The literature is grouped into five topics: (i) Consumers, (ii) Courts, (iii) Ideas, Experts and Expertise, (iv) Governance and (v) Assessing Regulator Performance. Apart from (iv), we believe all of these areas have been under-researched in relative terms. In particular, a key finding is that compared to the information available on Public Utility Commissioners in US States, very little information has been collated on the background, characteristics and careers of individual utility regulators working within Europe"
 
 
 # Featured image thumbnail (optional)
