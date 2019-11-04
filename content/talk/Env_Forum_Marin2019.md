@@ -1,0 +1,62 @@
++++
+title = "The governance of sea level rise in the San Francisco Bay Area: results from a survey of stakeholders."
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date = 2019-10-19T13:00:00
+#date_end = 2030-06-01T15:00:00
+all_day = false
+
+# Schedule page publish date (NOT talk date).
+publishDate = 2017-01-01T00:00:00
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Francesca Pia Vantaggiato", "Mark Lubell", "Darcy Bostic"]
+
+# Abstract and optional shortened version.
+abstract = ""
+abstract_short = ""
+
+# Name of event and optional event URL.
+event = "Environmental Forum of Marin - Master Class 46"
+event_url = "https://www.marinefm.org/"
+
+# Location of event.
+location = "Marin, CA"
+
+# Is this a selected talk? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this talk with one or more of your projects.
+#   Simply enter your project's filename without extension.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
+projects = ["A_sea_level_rise"]
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Right"
+
++++
