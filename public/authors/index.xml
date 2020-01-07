@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 13:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Darcy Bostic</title>
+      <link>/authors/darcy-bostic/</link>
+      <pubDate>Sat, 19 Oct 2019 13:00:00 +0100</pubDate>
+      <guid>/authors/darcy-bostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesca Pia Vantaggiato</title>
+      <link>/authors/francesca-pia-vantaggiato/</link>
+      <pubDate>Sat, 19 Oct 2019 13:00:00 +0100</pubDate>
+      <guid>/authors/francesca-pia-vantaggiato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Lubell</title>
+      <link>/authors/mark-lubell/</link>
+      <pubDate>Sat, 19 Oct 2019 13:00:00 +0100</pubDate>
+      <guid>/authors/mark-lubell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hussein Kassim</title>
+      <link>/authors/hussein-kassim/</link>
+      <pubDate>Wed, 08 May 2019 13:00:00 +0100</pubDate>
+      <guid>/authors/hussein-kassim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kathryn Wright</title>
+      <link>/authors/kathryn-wright/</link>
+      <pubDate>Wed, 08 May 2019 13:00:00 +0100</pubDate>
+      <guid>/authors/kathryn-wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sara Connolly</title>
+      <link>/authors/sara-connolly/</link>
+      <pubDate>Wed, 08 May 2019 13:00:00 +0100</pubDate>
+      <guid>/authors/sara-connolly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Deller</title>
+      <link>/authors/david-deller/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/david-deller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angelica Gianfreda</title>
+      <link>/authors/angelica-gianfreda/</link>
+      <pubDate>Tue, 07 May 2013 00:00:00 +0100</pubDate>
+      <guid>/authors/angelica-gianfreda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Since January 2020, I am Lecturer of Public Policy at King&#39;s College London (UK).&lt;/p&gt;
+&lt;p&gt;Between January 2018 and December 2019, I was a post-doctoral researcher at the Center for Environmental Policy and Behavior (CEPB) of the University of California (Davis). There, I worked on a project focusing on the governance challenges to adaptation to sea level rise in the San Francisco Bay Area. I also worked on a parallel project focused on the governance of critical transportation infrastructure corridors impacted by sea level rise in different areas of California (the Bay Area, LA County and San Diego). I am currently working on the publications from these projects.&lt;/p&gt;
+&lt;p&gt;My research agenda also comprises the study of the European Union as a multi-level governance system. In that context, I am interested in how different governance actors (civil servants, regulators, interest groups, civil society) exploit the gaps between levels of governance to further their interests.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sara Connolly | Academic</title>
+    <link>/authors/sara-connolly/</link>
+      <atom:link href="/authors/sara-connolly/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sara Connolly</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2019 13:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sara Connolly</title>
+      <link>/authors/sara-connolly/</link>
+    </image>
+    
+    <item>
+      <title>The porous bureaucracy: how interaction with the external environment influences European Commission officials&#39; policy preferences.</title>
+      <link>/talk/eusa_2019/</link>
+      <pubDate>Wed, 08 May 2019 13:00:00 +0100</pubDate>
+      <guid>/talk/eusa_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the EU Civil Service: The General Secretariat of the Council.</title>
+      <link>/publication/gsc_report/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gsc_report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

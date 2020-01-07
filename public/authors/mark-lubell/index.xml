@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Lubell | Academic</title>
+    <link>/authors/mark-lubell/</link>
+      <atom:link href="/authors/mark-lubell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Lubell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 13:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mark Lubell</title>
+      <link>/authors/mark-lubell/</link>
+    </image>
+    
+    <item>
+      <title>The governance of sea level rise in the San Francisco Bay Area: results from a survey of stakeholders.</title>
+      <link>/talk/env_forum_marin2019/</link>
+      <pubDate>Sat, 19 Oct 2019 13:00:00 +0100</pubDate>
+      <guid>/talk/env_forum_marin2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking for legitimacy: adaptation to sea level rise in the San Francisco Bay Area.</title>
+      <link>/talk/epg_2019/</link>
+      <pubDate>Fri, 28 Jun 2019 13:00:00 +0100</pubDate>
+      <guid>/talk/epg_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The governance of sea level rise in the San Francisco Bay Area: results from a survey of stakeholders.</title>
+      <link>/talk/barc_2019/</link>
+      <pubDate>Fri, 21 Jun 2019 13:00:00 +0100</pubDate>
+      <guid>/talk/barc_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overlap and segmentation: the structural challenges to adaptation to sea level rise in the San Francisco Bay Area.</title>
+      <link>/talk/wpsa_2019/</link>
+      <pubDate>Sat, 20 Apr 2019 13:00:00 +0100</pubDate>
+      <guid>/talk/wpsa_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The pursuit of coordination in climate change adaptation: sea level rise in the San Francisco Bay Area.</title>
+      <link>/talk/mpsa_2019/</link>
+      <pubDate>Fri, 05 Apr 2019 13:00:00 +0100</pubDate>
+      <guid>/talk/mpsa_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Governance of Sea Level Rise in the San Francisco Bay Area: results from a survey of stakeholders.</title>
+      <link>/publication/slr_report/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/slr_report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
