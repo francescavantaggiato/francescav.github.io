@@ -1,31 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Francesca Pia Vantaggiato</title>
+    <title>Recent &amp; Upcoming Talks | Academic</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Francesca Pia Vantaggiato</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 28 Jun 2019 13:00:00 -0700</lastBuildDate>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 13:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>The governance of sea level rise in the San Francisco Bay Area: results from a survey of stakeholders.</title>
+      <link>/talk/env_forum_marin2019/</link>
+      <pubDate>Sat, 19 Oct 2019 13:00:00 +0100</pubDate>
+      <guid>/talk/env_forum_marin2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Networking for legitimacy: adaptation to sea level rise in the San Francisco Bay Area.</title>
       <link>/talk/epg_2019/</link>
-      <pubDate>Fri, 28 Jun 2019 13:00:00 -0700</pubDate>
-      
+      <pubDate>Fri, 28 Jun 2019 13:00:00 +0100</pubDate>
       <guid>/talk/epg_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The governance of sea level rise in the San Francisco Bay Area: results from a survey of stakeholders.</title>
+      <link>/talk/barc_2019/</link>
+      <pubDate>Fri, 21 Jun 2019 13:00:00 +0100</pubDate>
+      <guid>/talk/barc_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structures of cooperation are opportunities: explaining the worth of European Administrative Networks.</title>
       <link>/talk/eusa_2019-2/</link>
-      <pubDate>Wed, 08 May 2019 13:00:00 -0700</pubDate>
-      
+      <pubDate>Wed, 08 May 2019 13:00:00 +0100</pubDate>
       <guid>/talk/eusa_2019-2/</guid>
       <description></description>
     </item>
@@ -33,8 +47,7 @@
     <item>
       <title>The porous bureaucracy: how interaction with the external environment influences European Commission officials&#39; policy preferences.</title>
       <link>/talk/eusa_2019/</link>
-      <pubDate>Wed, 08 May 2019 13:00:00 -0700</pubDate>
-      
+      <pubDate>Wed, 08 May 2019 13:00:00 +0100</pubDate>
       <guid>/talk/eusa_2019/</guid>
       <description></description>
     </item>
@@ -42,8 +55,7 @@
     <item>
       <title>Overlap and segmentation: the structural challenges to adaptation to sea level rise in the San Francisco Bay Area.</title>
       <link>/talk/wpsa_2019/</link>
-      <pubDate>Sat, 20 Apr 2019 13:00:00 -0700</pubDate>
-      
+      <pubDate>Sat, 20 Apr 2019 13:00:00 +0100</pubDate>
       <guid>/talk/wpsa_2019/</guid>
       <description></description>
     </item>
@@ -51,8 +63,7 @@
     <item>
       <title>The pursuit of coordination in climate change adaptation: sea level rise in the San Francisco Bay Area.</title>
       <link>/talk/mpsa_2019/</link>
-      <pubDate>Fri, 05 Apr 2019 13:00:00 -0700</pubDate>
-      
+      <pubDate>Fri, 05 Apr 2019 13:00:00 +0100</pubDate>
       <guid>/talk/mpsa_2019/</guid>
       <description></description>
     </item>

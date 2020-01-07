@@ -17,7 +17,7 @@
  **************************************************/
 
 html {
-  font-family: 'Merriweather', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
@@ -71,7 +71,7 @@ ul, ol, dl {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
@@ -79,7 +79,7 @@ ul, ol, dl {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: .5rem;
@@ -142,7 +142,7 @@ figcaption {
   line-height: 1.25;
   font-size: 1rem;
   margin-bottom: 1.65rem;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 figcaption.numbered:before {
@@ -246,66 +246,6 @@ small,
 /*************************************************
  *  Search.
  **************************************************/
-
-.search-results {
-  transform: scale(0);
-  background-color: #fff;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  top: 0;
-  overflow: scroll;
-  position: fixed;
-  visibility: hidden;
-  z-index: -99;
-}
-
-.dark .search-results {
-  background-color: rgb(40, 42, 54);
-}
-
-.searching {
-  overflow: hidden;
-}
-
-.searching .search-results {
-  transform: scale(1);
-  visibility: visible;
-  z-index: 11; /* Second highest index, after navbar. */
-}
-
-.searching #search-box #search-query {
-  width: 100%;
-}
-
-.search-results > .container {
-  padding-top: calc(70px + 2rem); /* Max responsive navbar height plus padding. */
-}
-
-.search-header {
-  background-color: #fff;
-  position: sticky;
-  top: calc(70px + 2rem); /* Max responsive navbar height plus padding. */
-  padding-bottom: 1rem;
-}
-
-.dark .search-header {
-  background-color: rgb(40, 42, 54);
-}
-
-.search-header h1 {
-  margin: 0;
-  line-height: 1;
-}
-
-.col-search-close {
-  text-align: right;
-}
-
-.search-header i {
-  font-size: 2rem;
-  line-height: 1;
-}
 
 #search-box {
   position: relative; /* Required for search icon positioning. */
@@ -874,8 +814,8 @@ article .article-metadata {
 .article-style video {
   margin-left: auto;
   margin-right: auto;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: 60px;
+  margin-bottom: 60px;
   padding: 0;
 }
 
@@ -886,8 +826,8 @@ article .article-metadata {
 }
 
 .article-style figure {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .article-style figure img {
@@ -1856,7 +1796,7 @@ div.alert a {
       position: -webkit-sticky;
       position: sticky;
       top: 51px;
-      z-index: 10;
+      z-index: 1000;
       height: calc(100vh - 51px)
     }
   }
@@ -1871,7 +1811,7 @@ div.alert a {
       position: -webkit-sticky;
       position: sticky;
       top: 71px;
-      z-index: 10;
+      z-index: 1000;
       height: calc(100vh - 71px)
     }
   }
@@ -2057,7 +1997,6 @@ body.dark,
 .dark .form-control,
 .dark .form-control:focus {
   color: rgb(248, 248, 242);
-  background: rgb(40, 42, 54);
 }
 
 .dark .form-control {

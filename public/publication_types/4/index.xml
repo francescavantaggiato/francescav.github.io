@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>4 on Francesca Pia Vantaggiato</title>
+    <title>4 | Academic</title>
     <link>/publication_types/4/</link>
-    <description>Recent content in 4 on Francesca Pia Vantaggiato</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>/publication_types/4/</link>
+    </image>
     
     <item>
       <title>The Governance of Sea Level Rise in the San Francisco Bay Area: results from a survey of stakeholders.</title>
       <link>/publication/slr_report/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 -0700</pubDate>
-      
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/publication/slr_report/</guid>
       <description></description>
     </item>
@@ -24,8 +23,7 @@
     <item>
       <title>Understanding the EU Civil Service: The General Secretariat of the Council.</title>
       <link>/publication/gsc_report/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/gsc_report/</guid>
       <description></description>
     </item>

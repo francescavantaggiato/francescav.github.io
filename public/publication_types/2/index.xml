@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Francesca Pia Vantaggiato</title>
+    <title>2 | Academic</title>
     <link>/publication_types/2/</link>
-    <description>Recent content in 2 on Francesca Pia Vantaggiato</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
     
     <item>
-      <title>Regulatory relationships across levels of multilevel governance systems: From collaboration to competition.</title>
+      <title>Regulatory relationships across levels of multilevel governance systems: From collaboration to competition</title>
       <link>/publication/governance/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 -0700</pubDate>
-      
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0100</pubDate>
       <guid>/publication/governance/</guid>
       <description></description>
     </item>
@@ -24,17 +23,23 @@
     <item>
       <title>Networking for resources: how regulators use networks to compensate for lower staff levels</title>
       <link>/publication/jepp/</link>
-      <pubDate>Fri, 20 Apr 2018 00:00:00 -0700</pubDate>
-      
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0100</pubDate>
       <guid>/publication/jepp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks as &#39;first best&#39;? Network entrepreneurship and venue shifting in the establishment of the network of Euro-Mediterranean energy regulators.</title>
+      <link>/publication/jcms2019/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/jcms2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The drivers of regulatory networking: policy learning between homophily and convergence</title>
       <link>/publication/jpp/</link>
-      <pubDate>Fri, 20 Apr 2018 00:00:00 -0700</pubDate>
-      
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0100</pubDate>
       <guid>/publication/jpp/</guid>
       <description></description>
     </item>
@@ -42,8 +47,7 @@
     <item>
       <title>European Energy Regulation: a Survey Analysis across Electricity Segments</title>
       <link>/publication/ieee/</link>
-      <pubDate>Tue, 07 May 2013 00:00:00 -0700</pubDate>
-      
+      <pubDate>Tue, 07 May 2013 00:00:00 +0100</pubDate>
       <guid>/publication/ieee/</guid>
       <description></description>
     </item>

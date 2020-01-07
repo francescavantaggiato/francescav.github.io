@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Governance on Francesca Pia Vantaggiato</title>
+    <title>Governance | Academic</title>
     <link>/tags/governance/</link>
-    <description>Recent content in Governance on Francesca Pia Vantaggiato</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 -0800</lastBuildDate>
-    
-	<atom:link href="/tags/governance/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/governance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Governance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Governance</title>
+      <link>/tags/governance/</link>
+    </image>
     
     <item>
       <title>RISER SF Bay - Resilient Infrastructures as Seas Rise.</title>
       <link>/project/ext_riser/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 -0800</pubDate>
-      
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/project/ext_riser/</guid>
-      <description>The governance of sea level rise in the San Francisco Bay Area.</description>
+      <description></description>
     </item>
     
     <item>
       <title>The Governance of Sea Level Rise for Transportation Corridors across California</title>
       <link>/project/int_slr_sb1/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 -0800</pubDate>
-      
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/project/int_slr_sb1/</guid>
-      <description>This project investigates the governance structure surrounding specific transportation corridors that are impacted by sea level rise in three different areas of California: the San Francisco Bay Area, Los Angeles and San Diego County. The project is financed by a grant I received from the Institute for Transportation Studies (ITS) at UC Davis, resulting from funding provided by State of California in relation to the SB1 bill.</description>
+      <description>&lt;p&gt;This project investigates the impact of climate change on transportation infrastructure in California. Specifically, it focuses on the governance structures that are in place to deal with adaptation to sea level rise, addressing its consequences on transportation infrastructure. The project examines specific transportation corridors that are impacted by sea level rise in three different areas of California - the San Francisco Bay Area, Los Angeles and San Diego County - in comparative perspective.&lt;/p&gt;
+&lt;p&gt;Sea-level rise is a growing concern for coastal communities in California. Flooding and erosion, exacerbated by rising sea levels, hamper the viability of transportation and other critical infrastructure along California&#39;s coasts and bays. Adapting transportation infrastructure to sea-level rise requires collaboration and coordination among policy stakeholders and governments at multiple geographic levels. Increasing collaboration invokes important questions about governance: What kind of governance challenges do stakeholders face in different areas? How are they trying to resolve them? What innovative solutions are emerging across the state? Most importantly, what can stakeholders from different areas learn from each others&amp;rsquo; experiences of collaborative governance?&lt;/p&gt;
+&lt;p&gt;This proposal adopts a theoretical policy learning perspective and answers these questions by carrying out a comparative analysis of collaborative governance in areas where transportation infrastructure is expected to be most vulnerable to sea-level rise. Our initial assessment identified three focal regions: Highway 37 in the San Francisco Bay Area; the Los Angeles - San Diego railroad in San Diego County; and the Pacific Coast Highway in Los Angeles County (refining this list is part of the project).&lt;/p&gt;
+&lt;p&gt;The proposal builds on previous work in the Bay Area, but focuses more closely on the adaptive capacity of specific transportation infrastructure as well as a comparative perspective. Methodologically, the project combines analysis of qualitative interviews with stakeholders with quantitative network analysis of their collaborative ties to other actors and policy initiatives. Our outputs will consist of a governance report aimed at policy-makers, academic publications, and a practitioners&amp;rsquo; workshop to share lessons learned to be held in October 2019. The report, in particular, will contain actionable policy recommendations and outline mechanisms to foster cross-regional learning from collaborative governance initiatives.&lt;/p&gt;
+&lt;p&gt;The project is financed by a grant that Mark Lubell and I received from the Institute for Transportation Studies (ITS) at UC Davis, resulting from funding provided by State of California in relation to the SB1 bill. The grant amounts to $80.000 dollars. The project will be completed in October 2019.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

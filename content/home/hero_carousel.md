@@ -1,7 +1,9 @@
 +++
 # Hero Carousel widget.
 widget = "hero_carousel"
-active = false
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+#weight = 10  # Order that this section will appear.
 date = 2017-10-15T00:00:00
 
 # Order that this section will appear in.
