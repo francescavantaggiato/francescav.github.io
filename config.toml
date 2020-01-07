@@ -6,16 +6,16 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://francescav.github.io/"
+baseurl = "/"
 
 # Title of your site
-title = "Francesca Pia Vantaggiato"
+title = "Academic"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
-theme = "hugo-academic"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -48,42 +48,31 @@ enableGitInfo = false
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
-  # Color theme.
-  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
-
-  # Font style.
-  #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  # AUTHOR SETUP
 
   # Your details.
-  name = "Francesca Pia Vantaggiato"
-  role = "Postdoctoral Researcher"
+  name = "Francesca Vantaggiato"
+  role = "Post-doctoral researcher in Environmental Policy"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ {name="Dept of Environmental Science and Policy", url=""}, { name = "University of California, Davis", url = "www.ucdavis.edu" } ]
-  
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "io_big.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "fvantaggiato@ucdavis.edu"
-  address = "University of California, Davis, USA"
-  office_hours = ""
-  phone = ""
-  twitter = "@FPVAntaggiato"
-  skype = ""
-  telegram = ""
+  organizations = [ { name = "University of California, Davis", url = "https://environmentalpolicy.ucdavis.edu/" } ]
 
-  # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = ""
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "io.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+
+  # Details for the Contact Widget
+  email = "fvantaggiato@ucdavis.edu"
+  address = "Wickson Hall, UC Davis, CA, USA"
+  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  #phone = "888 888 88 88"
+  #skype = "echo123"
+  #telegram = ""
+  #keybase = ""  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
-
-  # Diplay a logo in navigation bar rather than title (optional).
-  #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -106,6 +95,29 @@ enableGitInfo = false
   longitude = "-122.1697"
   zoom = 15
 
+  # SITE SETUP
+
+  # Color theme.
+  #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+  color_theme = "default"
+
+  # Font style.
+  #   Choose from `default`, `classic`, or `playfair`.
+  font = "default"
+
+  # Description for social sharing and search engines. If undefined, author role is used in place.
+  description = ""
+
+  # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+  sharing_image = ""
+
+  # Twitter username (without @). Used when a vistor shares your site on Twitter.
+  twitter = "FPVantaggiato"
+
+  # Diplay a logo in navigation bar rather than title (optional).
+  #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+  logo = ""
+
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
@@ -113,7 +125,7 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -164,7 +176,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = ["mystyle.css"]
+  custom_css = []
   custom_js  = []
 
   # Publication types.
@@ -187,7 +199,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = false
+    time = true
 
   # Configuration of publication pages.
   [params.publications]
@@ -205,7 +217,14 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 2
+    #   4 = Stream
+    publication_format = 4
+
+    # Talk list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = Stream
+    talk_format = 2
 
   # Social/Academic Networking
   #
@@ -225,46 +244,32 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-[[params.social]]
+  [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:fvantaggiato@ucdavis.edu"
+    link = "mailto:test@example.org"
 
-[[params.social]]
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/FPVAntaggiato"
+    link = "//twitter.com/GeorgeCushen"
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fab"
-    link = "https://www.linkedin.com/in/francesca-pia-vantaggiato/"
-
-[[params.social]]
+  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=X_ur-ZYAAAAJ&hl=en"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-[[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/Francesca_Vantaggiato"
-
-[[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "https://orcid.org/0000-0003-1154-4540"
-
-[[params.social]]
+  [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/francescavantaggiato"
+    link = "//github.com/gcushen"
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-   #  icon = "cv"
-    # icon_pack = "ai"
-     # link = "files/cvNov18.pdf"
+   [[params.social]]
+     icon = "cv"
+     icon_pack = "ai"
+     link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -281,41 +286,35 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications"
+  url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 3
+#[[menu.main]]
+ # name = "Posts"
+ # url = "#posts"
+ # weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 3
+
+#[[menu.main]]
+ # name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
-
-#[[menu.main]]
-#  name = "Tutorials"
-#  url = "/tutorial/"
-#  weight = 6
-
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 7
-
+  weight = 4
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
-    url = "files/Vantaggiato_CV_May2019.pdf"
-    weight = 6
+    url = "files/cv.pdf"
+    weight = 5
 
 # Search.
 [params.search]
