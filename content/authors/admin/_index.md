@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer of Public Policy
+role: Lecturer in Public Policy
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,7 @@ email: ""
 #- Visitors
 ---
 
-Since January 2020, I am Lecturer of Public Policy at King's College London (UK).
+Since January 2020, I am Lecturer in Public Policy at King's College London (UK).
 
 Between January 2018 and December 2019, I was a post-doctoral researcher at the Center for Environmental Policy and Behavior (CEPB) of the University of California (Davis). There, I worked on a project focusing on the governance challenges to adaptation to sea level rise in the San Francisco Bay Area. I also worked on a parallel project focused on the governance of critical transportation infrastructure corridors impacted by sea level rise in different areas of California (the Bay Area, LA County and San Diego). I am currently working on the publications from these projects.
 
