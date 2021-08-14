@@ -13,7 +13,7 @@ summary = "The governance of sea level rise in the San Francisco Bay Area."
 tags = ["Sea level rise", "Governance"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://riser.berkeley.edu/"
+external_link = "https://environmentalpolicy.ucdavis.edu/project/governance-sea-level-rise-san-francisco-bay-area"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
