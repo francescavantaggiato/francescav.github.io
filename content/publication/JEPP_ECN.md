@@ -29,7 +29,7 @@ abstract = "European Administrative Networks (EANs) are well-studied platforms o
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
