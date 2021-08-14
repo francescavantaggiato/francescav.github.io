@@ -18,7 +18,7 @@ organizations:
   url: "https://www.kcl.ac.uk/people/francesca-pia-vantaggiato"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a social scientist. I study governance, public policy, and public administration. In particular, my research focuses on how policy actors address collective action problems, and influence policy formulation. I 
+bio: I am a social scientist. I study governance, public policy, and public administration. In particular, my research focuses on how policy actors address collective action problems, and influence policy formulation. 
 
 interests:
 - Public Policy
