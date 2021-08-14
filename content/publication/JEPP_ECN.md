@@ -1,10 +1,10 @@
 +++
-title = "Networks as 'first best'? Network entrepreneurship and venue shifting in the establishment of the network of Euro-Mediterranean energy regulators."
-date = 2018-04-20T00:00:00
+title = "Internal network structures as opportunity structures: control and effectiveness in the European Competition Network."
+date = 2020-04-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Francesca Pia Vantaggiato"]
+authors = ["Francesca Pia Vantaggiato", "Hussein Kassim", "Kathryn Wright"]
 
 # Publication type.
 # Legend:
@@ -18,18 +18,18 @@ authors = ["Francesca Pia Vantaggiato"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Common Market Studies*"
-publication_short = "In *Journal of Common Market Studies*"
+publication = "In *Journal of European Public Policy*"
+publication_short = "In *Journal of European Public Policy*"
 
 # Abstract and optional shortened version.
-abstract = "Regulatory networks are usually considered a “second best” instrument of policy integration. They have no decision‐making powers and unclear policy impact. Yet, regulators often play a leading role in establishing their informal networks. Why do regulators initiate networks? I find that regulators form networks to shift the venue of policy discussion from a formal setting, dominated by policy‐makers, to an informal setting, where they share agenda‐setting power with their peers only. Regulators forming networks are “network entrepreneurs”, for whom the establishment of the network is a policy goal in itself. Bolstered by previous positive networking experiences, network entrepreneurs consider networks a first‐best instrument of policy influence. I analyse the empirical case of the network of energy regulators of the Euro‐Mediterranean (MedReg, established in 2006) through 20 elite interviews. The findings hold implications for our understanding of informal regulatory collaboration in the EU and beyond."
+abstract = "European Administrative Networks (EANs) are well-studied platforms of collaboration between national authorities. To understand EANs, the literature typically relies on few explanatory variables: network origins, objectives, and outputs. This external view of EANs leaves important questions unanswered, notably concerning power redistribution and regulators’ perception of EANs. This article highlights the importance of network internal structures as an explanatory variable for understanding EANs. We contend that internal structures are ‘opportunity structures’ for regulators to set agendas and share resources. We investigate the case of the European Competition Network (ECN) – a highly structured, hierarchical and formalised enforcement network – drawing on structured interviews with 15 National Competition Agencies (NCAs) carried out in 2014. We find that the ECN’s formal internal structures afford all NCAs access to the agenda, foster perceptions of effectiveness, and promote informal sharing of expertise outside the network. Future research should incorporate internal structures into analyses of administrative networks."
 
 
 # Featured image thumbnail (optional)
-#image_preview = ""
+image_preview = ""
 
 # Is this a selected publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -55,7 +55,7 @@ tags = []
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link", url = "https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.12956blog"}]
+url_custom = [{name = "Link", url = "https://www.tandfonline.com/doi/abs/10.1080/13501763.2020.1737183?journalCode=rjpp20"}]
 
 # Digital Object Identifier (DOI)
 # doi = "10.1017/S0143814X18000156"

@@ -29,7 +29,7 @@ abstract = "The literature has found that regulatory networks foster exchange of
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

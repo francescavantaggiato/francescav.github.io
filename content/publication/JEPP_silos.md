@@ -1,10 +1,10 @@
 +++
-title = "Networks as 'first best'? Network entrepreneurship and venue shifting in the establishment of the network of Euro-Mediterranean energy regulators."
+title = "Breaking out of silos: explaining cross-departmental interactions in two European bureaucracies."
 date = 2018-04-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Francesca Pia Vantaggiato"]
+authors = ["Francesca Pia Vantaggiato", "Hussein Kassim", "Sara Connolly"]
 
 # Publication type.
 # Legend:
@@ -18,18 +18,18 @@ authors = ["Francesca Pia Vantaggiato"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Common Market Studies*"
-publication_short = "In *Journal of Common Market Studies*"
+publication = "In *Journal of European Public Policy*"
+publication_short = "In *Journal of European Public Policy*"
 
 # Abstract and optional shortened version.
-abstract = "Regulatory networks are usually considered a “second best” instrument of policy integration. They have no decision‐making powers and unclear policy impact. Yet, regulators often play a leading role in establishing their informal networks. Why do regulators initiate networks? I find that regulators form networks to shift the venue of policy discussion from a formal setting, dominated by policy‐makers, to an informal setting, where they share agenda‐setting power with their peers only. Regulators forming networks are “network entrepreneurs”, for whom the establishment of the network is a policy goal in itself. Bolstered by previous positive networking experiences, network entrepreneurs consider networks a first‐best instrument of policy influence. I analyse the empirical case of the network of energy regulators of the Euro‐Mediterranean (MedReg, established in 2006) through 20 elite interviews. The findings hold implications for our understanding of informal regulatory collaboration in the EU and beyond."
+abstract = "The view that silos are endemic in organisations in general and the European Civil Service in particular has become increasingly widespread. Yet, silos are rarely investigated theoretically or empirically. What is a silo? What are the individual and organisational factors associated with silos? We propose a functionalist approach to silo definition and identification, which links individual and organisational tasks to expected intra-organisational interactions: we operationalize silos as clusters of employees lacking communication with other parts of the organisation, and analyse civil servants and departments as bipartite networks of communication using stochastic blockmodelling. We explore the existence of silos in two European bureaucracies, which differ in mission, size and workforce composition: the European Commission and the General Secretariat of the Council. We do not find evidence of silo-ization in either bureaucracy, but rather task-based patterns of interaction. Our approach can be extended to include other theoretical perspectives, e.g. socialization effects."
 
 
 # Featured image thumbnail (optional)
-#image_preview = ""
+image_preview = ""
 
 # Is this a selected publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -55,7 +55,7 @@ tags = []
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link", url = "https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.12956blog"}]
+url_custom = [{name = "Link", url = "https://doi.org/10.1080/13501763.2020.1784253"}]
 
 # Digital Object Identifier (DOI)
 # doi = "10.1017/S0143814X18000156"
