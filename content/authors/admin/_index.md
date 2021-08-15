@@ -71,12 +71,12 @@ email: ""
 #- Visitors
 ---
 
-Hello, welcome to my website. I am Lecturer of Public Policy at King's College London (UK).
+Hello, welcome to my website. I am a Lecturer (Assistant Professor) in Public Policy at King's College London (UK).
 
-I am interested in how policy-makers and bureaucrats make decisions, particularly stemming from interaction with each other and with other stakeholders across governance scales. I am also interested in how policy-makers and bureaucrats cooperate and coordinate to benefit themselves, and in defining what their 'benefit' is. Typically, I study these things in the context of decision-making processes involving the authorization, siting and financing of big infrastructure projects. This is because infrastructure is enabling. Deciding when, where and how to build it has profound distributional implications.
+I study how policy-makers and bureaucrats collaborate and coordinate - with each other and with other stakeholders - to make decisions and/or attain some kind of goal. Typically, I study these things in the context of decision-making processes concerning big infrastructure projects. This is because deciding when, where and how to build infrastructure has profound distributional implications.
 
-For example, my PhD thesis focused on how European energy regulators cooperated and coordinated via informal interactions to set the basis for the current regulatory framework of the European Internal Energy Market. 
+My doctoral thesis at the University of East Anglia (UEA) focused on formal and informal networking between European national energy regulators. I found that regulators use networks to enhance their influence over policy-making (and policy-makers). 
 
-My post-doctoral research at the University of California (Davis) focused on local and regional scale policy-making in climate adaptation, particularly on the governance challenges that exist to adaptation to sea level rise (and building infrastructure to that purpose) in the San Francisco Bay Area as well as other areas of California (the Bay Area, LA County and San Diego).
+My post-doctoral research at the University of California (Davis) focused on the governance challenges that government and stakeholders in the San Francisco Bay area face in adapting to sea level rise. A grant from the State of California Dept of Transportation allowed me to study similar processes in the context of transportation infrastructure in other areas of California (the Bay Area, LA County and San Diego), as well.
 
 My research agenda also comprises the study of the European Union as a multi-level governance system. In that context, I am interested in how the EU civil service works and in how different governance actors (civil servants, regulators, interest groups, civil society) exploit the gaps between levels of governance to further their interests.

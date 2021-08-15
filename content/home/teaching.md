@@ -15,14 +15,13 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+At King's, I teach at both undergraduate and graduate levels.
 
-I am a teaching instructor for the following courses at University X:
+At undergraduate level, I teach:  
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- 5SSPP230: *European Union: Power, Politics and Economics*
+- 6SSPP388: *Environmental Governance*
+
+At graduate level, I teach one of the core modules of the Masters in Public Policy:
+
+- 7SSPP002: *Comparative Public Policy*
