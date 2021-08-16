@@ -73,6 +73,6 @@ email: ""
 
 Hello, welcome to my website. I am a Lecturer (Assistant Professor) in Public Policy at King's College London (UK).
 
-I study how policy-makers and bureaucrats collaborate and coordinate - with each other and with other stakeholders - to make decisions and/or attain some kind of goal. Typically, I study these things in the context of decision-making processes concerning big infrastructure projects. This is because deciding when, where and how to build infrastructure has profound distributional implications.
+I study how policy-makers and bureaucrats collaborate and coordinate with each other and with stakeholders in order to make decisions or to derive some kind of benefit. Typically, I study these things in the context of decision-making processes concerning big infrastructure projects. This is because deciding when, where and how to build infrastructure has profound distributional implications.
 
 My research agenda also comprises the study of the European Union as a multi-level governance system. In that context, I am interested in how the EU civil service works and in how different governance actors (civil servants, regulators, interest groups, civil society) exploit the gaps between levels of governance to further their interests.
