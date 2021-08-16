@@ -22,9 +22,10 @@ bio: I am a social scientist. I study governance, public policy, and public admi
 
 interests:
 - Public Policy
-- Computational Social Science
 - Governance
 - Public Administration
+- Environmental Policy
+- Computational Social Science
 
 education:
   courses:
