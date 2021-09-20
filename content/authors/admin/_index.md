@@ -74,6 +74,6 @@ email: ""
 
 Hello, welcome to my website. I am a Lecturer (Assistant Professor) in Public Policy at King's College London (UK).
 
-I study governance, public policy, and public administration. In particular, my research focuses on how policy actors address collective action problems, and influence policy formulation. The policy actors I typically study are regulators or other type of bureaucrat, as they interact with each other and/or with other stakeholders and civil society. 
+I study governance, public policy, and public administration. In particular, my research focuses on how policy actors address collective action problems, make policy decisions, and influence policy formulation. The policy actors I typically study are regulators or other type of bureaucrat, as they interact with each other and/or with other stakeholders and civil society. 
 
 My research agenda comprises three main strands: climate adaptation, where I study how actors achieve coordination and compromise over costs and benefits; regulation, where I study how regulators make decisions; and the civil service of the European Union, where I study how different governance actors (civil servants, regulators, interest groups, civil society) exploit the gaps between levels of governance to further their interests.
