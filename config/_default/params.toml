@@ -86,7 +86,7 @@ phone = "+44 (0)20 7848 9509"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
- address = {street = "Bush House North East \n 40 Aldwych", 
+ address = {street = "Bush House North East 40 Aldwych", 
  city = "London", 
  postcode = "WC2B 4BG", 
  country = "United Kingdom", country_code = "UK"}
