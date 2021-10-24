@@ -1,2 +1,2 @@
-# francescavantaggiato.github.io
+# francescav.github.io
 my academic website
