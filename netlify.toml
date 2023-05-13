@@ -18,7 +18,7 @@ hugo[build]
 
 [context.branch-deploy.environment]
   #command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-  HUGO_VERSION = "0.87.0"
+  HUGO_VERSION = "0.111.3"
 
 #[[headers]]
 #  for = "*.webmanifest"
