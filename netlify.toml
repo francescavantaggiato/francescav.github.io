@@ -16,7 +16,7 @@ hugo[build]
 #[context.deploy-preview]
  # command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
-[context.branch-deploy.environment]
+#[context.branch-deploy.environment]
  # command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 #  HUGO_VERSION = "v0.111.3"
 
