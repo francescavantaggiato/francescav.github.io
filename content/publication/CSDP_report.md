@@ -40,10 +40,10 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["climate change", "security", "CSDP", "Horn of Africa", "Sahel", "migration"]
+tags = []
 
 # Links (optional).
-url_pdf = "https://www.europarl.europa.eu/thinktank/en/document/EXPO_IDA(2021)653639"
+#url_pdf = "https://www.europarl.europa.eu/thinktank/en/document/EXPO_IDA(2021)653639"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"
