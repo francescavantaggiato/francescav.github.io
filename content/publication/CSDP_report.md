@@ -1,6 +1,6 @@
 +++
 title = "Preparing the CSDP for the new security environment created by climate change."
-date = 2021-06-20T00:00:00
+date = 2023-06-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
