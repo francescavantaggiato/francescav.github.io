@@ -1,6 +1,6 @@
 +++
 title = "Preparing the CSDP for the new security environment created by climate change."
-date = 2023-06-20T00:00:00
+date = 2021-06-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -49,13 +49,13 @@ url_pdf = "https://www.europarl.europa.eu/thinktank/en/document/EXPO_IDA(2021)65
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"
-url_video = "https://multimedia.europarl.europa.eu/en/video/joint-debate-cfsp-and-csdp-article-36-teu-implementation-of-the-common-foreign-and-security-policy-and-the-common-security-and-defence-policy-annual-reports-2022-meps-debate-part-2_I235850"
+#url_video = "#"
 #url_poster = "#"
 #url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link", url = "https://sfbaycharg.org/wp-content/uploads/2019/04/Lubell-et-al-2019.pdf"}]
+# url_custom = [{name = "Link", url = "xxx"}]
 
 # Digital Object Identifier (DOI)
 # doi = "10.1017/S0143814X18000156"
